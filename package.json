@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-aposoftworks",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "A Create React App template used by Apo Softworks.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aposoftworks/cra-template-aposoftworks.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/aposoftworks/cra-template-aposoftworks/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
